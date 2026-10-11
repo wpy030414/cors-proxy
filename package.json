@@ -1,0 +1,11 @@
+{
+  "name": "cors-proxy",
+  "version": "1.0.0",
+  "description": "零依赖 CORS 代理服务 — 原生 Node.js",
+  "private": true,
+  "type": "commonjs",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js"
+  }
+}
